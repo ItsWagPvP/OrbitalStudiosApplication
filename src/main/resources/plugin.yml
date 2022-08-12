@@ -1,0 +1,12 @@
+name: OrbitalStudiosApp
+version: '${project.version}'
+main: me.itswagpvp.orbitalstudiosapp.OrbitalStudiosApp
+api-version: 1.13
+authors: [_ItsWagPvP]
+commands:
+    fire:
+        usage: /<command>
+    explode:
+        usage: /<command>
+    lightning:
+        usage: /<command>
